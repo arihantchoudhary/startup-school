@@ -1,2 +1,0 @@
-# startup-school
-Live notes
